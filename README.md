@@ -3,7 +3,7 @@ learning python
 
 A collection of python labs covering fundamentals. 
 
-##Labs 
+## Labs 
 
 ### Lab1 - Fundamentals 
 - Task 1: Basics & Operators
