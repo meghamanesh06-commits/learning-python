@@ -12,9 +12,12 @@ else:
     generatedNumber = random.randint(10,100)
     print("Generated number is;", generatedNumber)
     if generatedNumber % 7 == 0:
-        if number >= generatedNumber:
+        print ("the generated number is divisible by 7")
+    else: 
+        print ("the generated number is not divisble by 7")
+
+        
+    if number >= generatedNumber:
             print("the sum is:", number + generatedNumber)
-        else:
-            print("the product is:", number * generatedNumber)
     else:
-        print("the generated number is not divisible by 7")
+            print("the product is:", number * generatedNumber)
