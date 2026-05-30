@@ -25,4 +25,10 @@ A collection of python labs covering fundamentals.
 - Task 2: Sum of 2i^2 series
 - Task 3: Alternating factorial series
 - Task 4: Vowel word counter
-- Task 5: Zero-padded number generator 
+- Task 5: Zero-padded number generator
+
+### Lab 4 - Lists 
+- Task 1: Input 5 numbers into a list and print squares
+- Task 2: Input 5 lines of numbers and represent as a table
+- Task 3: Simulate 100 dice rolls and count occurences
+- Task 4: Palindrome checker 
