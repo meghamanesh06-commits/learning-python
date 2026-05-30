@@ -1,5 +1,4 @@
 # learning-python
-learning python
 
 A collection of python labs covering fundamentals. 
 
