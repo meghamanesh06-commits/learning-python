@@ -18,3 +18,11 @@ A collection of python labs covering fundamentals.
 - Task 4: Number guessing game
 - Task 5: Using elif 
 - Task 6: Using nested if statements 
+
+### Lab 3 - Loops
+- Task 1: Sum of 3i series
+- Task 1.2: Random start and stop values
+- Task 2: Sum of 2i^2 series
+- Task 3: Alternating factorial series
+- Task 4: Vowel word counter
+- Task 5: Zero-padded number generator 
