@@ -30,4 +30,10 @@ A collection of python labs covering fundamentals.
 - Task 1: Input 5 numbers into a list and print squares
 - Task 2: Input 5 lines of numbers and represent as a table
 - Task 3: Simulate 100 dice rolls and count occurences
-- Task 4: Palindrome checker 
+- Task 4: Palindrome checker
+
+### Lab 5 - Procedures & Functions 
+- Task 1: Min & Max Temperature from file
+- Task 2: Secret Word Checker
+- Task 3: Smallest Absolute Value
+- Task 4: Join List
